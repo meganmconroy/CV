@@ -2,3 +2,20 @@ body {
   background-color: #FBF4F9;
   font-family: Arial;
 }
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: purple;
+  border-width: 5px;
+}
+
+h1 {
+  color: darkblue;
+  font-family: "Apple Chancery";
+}
+
+h3 {
+  color: purple;
+}
